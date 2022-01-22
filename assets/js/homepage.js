@@ -65,4 +65,4 @@ const displayRepos = function(repos, searchTerm) {
 
 userFormEl.addEventListener('submit', formSubmitHandler);
 
-// Lett off @ 6.1.6
+// Lett off @ 6.3.1
